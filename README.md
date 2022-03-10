@@ -1,6 +1,9 @@
 # 내가 스스로 하는 배운거 정리 : html_2
 Created with CodeSandbox
 
+![2](https://user-images.githubusercontent.com/37132897/157599205-0f286ee8-adcc-4e84-865a-11519f567fc1.PNG)
+
+
 
 ul,li 관련
 - ul = 순서가 없는 list,
